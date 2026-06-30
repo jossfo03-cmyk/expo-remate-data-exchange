@@ -40,7 +40,7 @@ export const getNextScreen = async (decryptedBody) => {
       };
 
       await fetch(
-        "https://script.google.com/macros/s/AKfycbyI2mnenwN_Zk3vBatKgum-_Y27D2v-CfP22_hcBZ6ABdARPFnTFbGvyS_8Z1McXup2tA/exec",
+        "https://script.google.com/macros/s/AKfycbzuOiixqISWfL5Ly-H6MH0GPXVMshsTycmiLC1fQRDbM6XJ_6UpR597lzgFOMQHCSunig/exec",
         {
           method: "POST",
           headers: {
